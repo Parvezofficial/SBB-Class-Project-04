@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    overflow: hidden;
+}
+.content_1{
+    background-color: coral;
+    width: 25%;
+    height: 70px;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.content_2{
+    background-color: chartreuse;
+    width: 75%;
+    height: 70px;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+
+.header_bar{
+    background-color:deeppink;
+    height: 139px;
+    text-align: center;
+    color: #fff;
+}
+
+header{
+    background-color: deepskyblue;
+    height: 50px; 
+
+}
+.contaier{
+overflow: hidden;
+}
+.left{
+    background-color: firebrick;
+    width: 25%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.middle{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.right{
+    background-color: hotpink;
+    width: 25%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+.top{
+    background-color: indigo;
+    height: 125px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+.mid{
+     height: 250px;
+    width: 100%;
+}
+.side_1{
+    background-color: magenta;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.side_2{
+    background-color: maroon;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+
+
+.bottom{
+    background-color: forestgreen;
+    height: 125px;
+    width:100%;
+    text-align: center;
+    color: #fff;
+}
+.foot{
+    background-color: mediumseagreen;
+    height: 50px;
+}
+.bottom_foot{
+    background-color: mediumslateblue;
+    height: 139px;
+    text-align: center;
+    color: #fff;
+}
